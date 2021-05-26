@@ -4,9 +4,9 @@ sample node js back end of a e-commerce
 
 
 ## create .env file with this informations
-PORT = 8000 //not mandatory
-DATABASE = mongodb://localhost/DB_NAME
-JWT_SECRET  = SECRET_STRING
+PORT = 8000 //not mandatory \n
+DATABASE = mongodb://localhost/DB_NAME  /n
+JWT_SECRET  = SECRET_STRING /b  \b
 
 ## To run this project :
 
