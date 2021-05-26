@@ -10,8 +10,10 @@ JWT_SECRET  = SECRET_STRING
 
 ## To run this project :
 
+- install mongoDB
+
+then run
 ```sh 
-install mongoDB
 run npm start
 ```
 
